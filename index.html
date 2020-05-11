@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Registration Form</title>
+   
+    <link rel="stylesheet" href="css/styles.css"> 
+</head>
+
+<body>
+
+    <header>
+        <div class="main-title"> 
+            <h1>THE CODE REVIEW</h1> 
+        </div>
+
+        <div class="main-title-blurb">
+            <h2>Sign-up for our newsletter</h2>
+            <p>Get the latest news on how your code is doing right in your inbox!</p>
+        </div>
+    </header>
+
+    <div class="main-form-container">
+        <form action="index.html" method="post">
+            <fieldset>
+                <legend>Contact Information</legend>
+
+                <div class="form-field">
+                    <label for="name">Full Name</label>
+                    <input type="text" class=" input-field" name="user_name" id="name" placeholder="Required"  required>
+                </div>
+    
+                <div class="form-field">
+                    <label for="email">Email Address</label>
+                    <input type="email" class=" input-field" name="user_email" id="email" placeholder="Required" required>
+                </div>
+    
+                <div class="form-field">
+                    <label for="phone">Phone Number</label>
+                    <input type="tel" class=" input-field" name="user_phone" id="phone" placeholder="+44" required>
+                </div>
+    
+                <div class="form-field">
+                    <label for="street">Street Address</label>
+                    <input type="text" class=" input-field" name="user_street" id="street" placeholder="16 Verity Avenue etc." required>
+                </div>
+    
+                <div class="form-field">
+                    <label for="city">City</label>
+                    <input type="text" class=" input-field" name="user_city" id="city" placeholder="City" required>
+                </div>
+    
+                <div class="form-field">
+                    <label for="county">County</label>
+                    <select class=" input-field" name="user_county" id="county">
+                        <option>Choose County</option>
+                        <option value="Essex">Essex</option>
+                        <option value="Sussex">Sussex</option>
+                        <option value="Norfolk">Norfolk</option>
+                        <option value="Heaven">Heaven</option>
+                        <option value="Hell">Hell</option>
+                        <otion value="Nirvana">Nirvana</otion>
+                        <option value="Neverland">Neverland</option>
+                        <option value="Narnia">Narnia</option>
+                        <option value="Hogwarts">Hogwarts</option>
+                    </select>
+                </div>
+    
+                <div class="form-field">
+                    <label for="postcode">Post Code</label>
+                    <input type="text" name="user_post_code" id="postcode" class=" input-field" placeholder="Post Code" required>
+                </div>
+
+            </fieldset>
+
+            <fieldset>
+                <legend>Newsletter</legend>
+                <p>Please select the newsletters you would like to receive:</p>
+
+                <div class="selection-container">
+                    <input type="checkbox" name="html_news" id="html_news"><label for="html_news">HTML News</label>
+                </div>
+
+                <div class="selection-container">
+                    <input type="checkbox" name="css_news" id="css_news"><label for="css_news">CSS News</label>
+                </div>
+
+                <div class="selection-container">
+                    <input type="checkbox" name="javascript_news" id="javascript_news"><label for="javascript_news">Javascript News</label>
+                </div>
+
+            
+                <label for="other">Other topics you'd like to hear about</label>
+                <textarea name="other" id="other"></textarea>
+            </fieldset>
+
+            <button type="submit">Sign Up</button>
+        </form>
+        <p>Copyright The Code Review</p>
+    </div>
+</body>
