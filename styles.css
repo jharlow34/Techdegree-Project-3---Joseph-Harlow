@@ -151,16 +151,16 @@ label[for="other"] {
 
 button {
   padding: 12px 24px;
+  margin: 15%;
   color: #FFF;
   background-color: turquoise;
   font-size: 20px;
   text-align: center;
   font-style: normal;
   border-radius: 5px;
-  width: 60%;
+  width: 100%;
   border: 1px solid whitesmoke;
   border-width: 2px;
-  box-shadow: 0 -1px 0 rgba(255,255,255,0.1) inset;
   margin-bottom: 10px;
 }
 
