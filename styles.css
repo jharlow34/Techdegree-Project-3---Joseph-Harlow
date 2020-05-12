@@ -91,13 +91,6 @@ fieldset {
     padding: 0;
 }
 
-form > fieldset:first-of-type {
-    border-bottom: 2px solid darkslategray;
-    margin-bottom: 25px;
-    padding-bottom: 25px;
-}
-
-
 .selection-container {
     margin: 13px 0;
     color: var(--secondary-color);
