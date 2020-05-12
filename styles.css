@@ -37,11 +37,7 @@ h3 {
     margin-bottom: 20px;
 }
 .main-form-container ::placeholder {
-    font-size: 0.6rem;
-}
-
-.main-form-container label {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
 }
 
 
