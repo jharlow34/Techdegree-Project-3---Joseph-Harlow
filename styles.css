@@ -98,11 +98,6 @@ form > fieldset:first-of-type {
 }
 
 
-.selection-container {
-    margin: 13px 0;
-    color: var(--secondary-color);
-}
-
 [type="checkbox"],
 [type="radio"] {
     margin-right: 10px;
