@@ -16,13 +16,16 @@ header {
 }
 
 h2,
-h3,
 legend {
     margin: 0 0 10px 0;
     color: black;
     font-size: 1.5rem;
     font-weight: 700;
+}
 
+h3 {
+    color: black;
+    font-size: 1rem;
 }
 
 .main-title {
