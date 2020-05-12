@@ -32,6 +32,10 @@ legend {
     margin-bottom: 20px;
 }
 
+.main-form-container h2 {
+    color: darkslategray;
+    margin: 20%
+}
 
 .main-text h1 {
     text-transform: uppercase;
