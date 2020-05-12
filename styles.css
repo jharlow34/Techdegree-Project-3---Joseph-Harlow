@@ -24,8 +24,8 @@ legend {
 
 }
 
-.main-text {
-    background-color: var(--primary-color);
+.main-title {
+    background-color: darkslategray;
     color: white;
     padding: 20px 0;
     margin-bottom: 20px;
