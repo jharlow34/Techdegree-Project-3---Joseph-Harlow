@@ -42,13 +42,13 @@ h3 {
 }
 
 
-.about-newsletter {
+.sub-heading {
     border-bottom: 5px solid;
     margin: 15px 4% -3px;
 
 }
 
-.about-newsletter p {
+.sub-heading p {
     color: black;
     font-size: 1.2rem;
     line-height: 1.4;
