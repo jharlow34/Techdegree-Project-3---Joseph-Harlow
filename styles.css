@@ -124,7 +124,9 @@ label[for="other"] {
     color: black;
 }
 
-
+option {
+    font-size: 1.2rem;
+}
 
 .selection-container {
     font-size: 1.2rem;
