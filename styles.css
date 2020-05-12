@@ -7,9 +7,8 @@
 }
 
 body{
-    margin: 0 auto;
-    font-family: var(--body-font-stack);
-    background-color: var(--bg-primary);
+    margin: 10%;
+    background-color: whitesmoke
 }
 
 header {
@@ -19,8 +18,7 @@ header {
 h2,
 legend {
     margin: 0 0 10px 0;
-    color: var(--secondary-color);
-    font-family: var(--heading-font-stack);
+    color: black;
     font-size: 1.2rem;
     font-weight: 700;
 
