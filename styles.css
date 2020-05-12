@@ -147,17 +147,19 @@ label[for="other"] {
     color: var(--secondary-color);
 }
 
-button[type="submit"] {
-    display: block;
-    border: none;
-    cursor: pointer;
-    border-radius: 5px;
-    padding: 15px 0;
-    color: white;
-    background-color: var(--primary-color);
-    width: 100%;
-    font-weight: 600;
-    margin-bottom: 30px;
+button {
+  padding: 12px 24px;
+  color: #FFF;
+  background-color: #ff6600;
+  font-size: 16px;
+  text-align: center;
+  font-style: normal;
+  border-radius: 5px;
+  width: 100%;
+  border: 1px solid lightgray;
+  border-width: 1px 1px 3px;
+  box-shadow: 0 -1px 0 rgba(255,255,255,0.1) inset;
+  margin-bottom: 10px;
 }
 
 button[type="submit"]:hover {
