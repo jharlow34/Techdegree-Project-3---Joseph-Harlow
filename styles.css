@@ -66,7 +66,7 @@ h3 {
     width: 100%;
     border: none;
     background-color: gainsboro;
-    border: 1px solid darkolivegreen;
+    border: 1px solid turquoise;
     border-radius: 5px;
     margin: 10px 0;
     transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
@@ -136,9 +136,9 @@ textarea {
     width: 100%;
     border: none;
     background-color: #fff;
-    border: 1px solid #ea4c4c54;
+    border: 1px solid darkcyan;
     border-radius: 5px;
-    color: var(--secondary-color);
+    color: black;
     padding: 5px;
     margin-bottom: 35px;
 }
@@ -165,7 +165,7 @@ button {
 }
 
 button[type="submit"]:hover {
-    background-color: blueviolet;
+    background-color: goldenrod;
     transition: 0.5s ease-in-out;
 }
 
@@ -176,7 +176,7 @@ button[type="submit"]:hover {
     margin-bottom: 150px;
 }
 
-input[id="zip"]:last-child {
+input[id="postcode"]:last-child {
     width: 60%;
 }
 
