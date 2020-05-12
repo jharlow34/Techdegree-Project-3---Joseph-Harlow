@@ -111,7 +111,7 @@ form > fieldset:first-of-type {
 }
 
 fieldset p {
-    color: var(--secondary-color);
+    color: black;
     line-height: 1.4;
     margin-top: 16px;
 }
