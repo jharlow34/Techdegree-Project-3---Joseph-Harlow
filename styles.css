@@ -147,6 +147,11 @@ button {
   margin-bottom: 10px;
 }
 
+footer {
+    font-size: 1.5rem
+    center;
+   }
+
 button[type="submit"]:hover {
     background-color: goldenrod;
     transition: 0.5s ease-in-out;
