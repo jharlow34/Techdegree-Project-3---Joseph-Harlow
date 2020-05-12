@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz");
 
 *,
 *::before,
@@ -150,14 +150,6 @@ button[type="submit"]:hover {
     background-color: goldenrod;
     transition: 0.5s ease-in-out;
 }
-
-
-.selection-container > p {
-    font-size: 1rem;
-    color: black;
-    margin-bottom: 150px;
-}
-
 
 
 /* Media Queries */
