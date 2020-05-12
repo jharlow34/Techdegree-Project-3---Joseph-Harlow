@@ -75,7 +75,7 @@ h3 {
 
 .input-field:focus,
 textarea:focus {
-    border-color: darkolivegreen;
+    border-color: turquoise;
     outline: 0;
     box-shadow: 0 0 0 0.2rem turquoise;;
 
@@ -86,7 +86,7 @@ legend {
 }
 
 .form-field  label {
-    color: var(--secondary-color);
+    color: darkcyan;
     padding: 5px 0;
     display: block;
     font-size: 0.938rem;
