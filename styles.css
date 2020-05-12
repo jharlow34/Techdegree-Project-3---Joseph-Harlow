@@ -94,7 +94,7 @@ legend {
 
 ::placeholder {
     text-align: right;
-    color: darkgreen;
+    color: rgb(41, 43, 41);
     font-size: 0.8rem;
 }
 
@@ -193,7 +193,7 @@ button[type="submit"]:hover {
     }
 
     .form-field > label {
-        width: 200px;
+        width: 120px;
     }
 
     .about-newsletter {
