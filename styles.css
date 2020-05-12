@@ -135,7 +135,7 @@ fieldset p {
 textarea {
     width: 100%;
     border: none;
-    background-color: #fff;
+    background-color: rgba(196, 190, 190, 0.87);
     border: 1px solid darkcyan;
     border-radius: 5px;
     color: black;
@@ -176,9 +176,6 @@ button[type="submit"]:hover {
     margin-bottom: 150px;
 }
 
-input[id="postcode"]:last-child {
-    width: 60%;
-}
 
 
 /* Media Queries */
