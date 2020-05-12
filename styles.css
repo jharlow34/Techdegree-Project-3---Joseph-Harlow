@@ -155,15 +155,15 @@ button {
   text-align: center;
   font-style: normal;
   border-radius: 5px;
-  width: 50%;
-  border: 1px solid lightgray;
+  width: 50% center;
+  border: 1px solid whitesmoke;
   border-width: 2px;
   box-shadow: 0 -1px 0 rgba(255,255,255,0.1) inset;
   margin-bottom: 10px;
 }
 
 button[type="submit"]:hover {
-    background-color: firebrick;
+    background-color: blueviolet;
     transition: 0.5s ease-in-out;
 }
 
