@@ -156,7 +156,7 @@ button[type="submit"]:hover {
 /* Media Queries */
 @media (min-width: 768px) {
 
-    .about-newsletter,
+    .sub-heading,
     .form-container {
         width: 58%;
         margin: auto;
@@ -172,7 +172,7 @@ button[type="submit"]:hover {
         width: 120px;
     }
 
-    .about-newsletter {
+    .sub-heading {
         margin-bottom: 2px;
        }
 
@@ -180,7 +180,7 @@ button[type="submit"]:hover {
         padding: 20px 0;
        }
 
-       input[id="zip"]:last-child {
+       input[id="postcode"]:last-child {
     width: 40%;
 }
        
