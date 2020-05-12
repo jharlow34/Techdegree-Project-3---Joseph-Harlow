@@ -42,11 +42,10 @@ h3 {
     text-transform: uppercase;
     margin: 0;
     font-size: 1.3rem;
-    font-family: var(--heading-font-stack);
 }
 
 .about-newsletter {
-    border-bottom: 5px solid var(--primary-color);
+    border-bottom: 5px solid;
     margin: 15px 4% -3px;
 
 }
