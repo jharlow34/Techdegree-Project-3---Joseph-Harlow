@@ -16,10 +16,11 @@ header {
 }
 
 h2,
+h3,
 legend {
     margin: 0 0 10px 0;
     color: black;
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: 700;
 
 }
@@ -31,11 +32,6 @@ legend {
     margin-bottom: 20px;
 }
 
-.main-title-blurb {
-   color: darkblue;  
-   padding: 20px 0;
-   margin-bottom: 20px;  
-}
 
 .main-text h1 {
     text-transform: uppercase;
