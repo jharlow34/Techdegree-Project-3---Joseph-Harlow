@@ -36,8 +36,9 @@ h3 {
     padding: 20px 0;
     margin-bottom: 20px;
 }
-.main-form-container ::placeholder {
+::placeholder {
     font-size: 1rem;
+    text-align: right;
 }
 
 
@@ -71,7 +72,6 @@ textarea:focus {
     border-color: turquoise;
     outline: 0;
     box-shadow: 0 0 0 0.2rem turquoise;;
-
 }
 
 legend {
@@ -82,13 +82,7 @@ legend {
     color: darkcyan;
     padding: 10px 0;
     display: block;
-    font-size: 0.938rem;
-}
-
-::placeholder {
-    text-align: right;
-    color: rgb(41, 43, 41);
-    font-size: 0.8rem;
+    font-size: 1.1rem;
 }
 
 fieldset {
