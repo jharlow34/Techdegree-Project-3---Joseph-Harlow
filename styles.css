@@ -75,9 +75,9 @@ h3 {
 
 .input-field:focus,
 textarea:focus {
-    border-color: #ea4c4ca6;
+    border-color: darkolivegreen;
     outline: 0;
-    box-shadow: 0 0 0 0.2rem #ea4c4c34;;
+    box-shadow: 0 0 0 0.2rem turquoise;;
 
 }
 
@@ -94,7 +94,7 @@ legend {
 
 ::placeholder {
     text-align: right;
-    color: #e62525;
+    color: darkgreen;
     font-size: 0.8rem;
 }
 
