@@ -6,15 +6,6 @@
     box-sizing: border-box;
 }
 
-:root {
-    --heading-font-stack: 'Merriweather', serif;
-    --body-font-stack: 'Merriweather', serif;
-    --primary-color: #ea4c4c;
-    --secondary-color: #4f5e6c;
-
-    --bg-primary: #fbf6dc;
-}
-
 body{
     margin: 0 auto;
     font-family: var(--body-font-stack);
