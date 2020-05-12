@@ -105,7 +105,7 @@ fieldset {
 }
 
 form > fieldset:first-of-type {
-    border-bottom: 2px solid;
+    border-bottom: 2px solid darkolivegreen;
     margin-bottom: 35px;
     padding-bottom: 35px;
 }
